@@ -1,6 +1,6 @@
-import GoogleMapsApi from './GoogleMapsApi'
-import { stylers }   from './stylers'
-import markerTmpl from './marker.tmpl'
+import GoogleMapsApi from './GoogleMapsApi.js'
+import { stylers }   from './stylers.js'
+import markerTmpl from './marker.tmpl.js'
 
 /**
  * Location Map
